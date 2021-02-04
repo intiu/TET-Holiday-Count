@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TET Holiday Count", "TET Holiday Count\TET Holiday Count.csproj", "{94CAC485-ACC9-40F9-B38D-8410F7765C5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94CAC485-ACC9-40F9-B38D-8410F7765C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CAC485-ACC9-40F9-B38D-8410F7765C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CAC485-ACC9-40F9-B38D-8410F7765C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CAC485-ACC9-40F9-B38D-8410F7765C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54D80F4-531D-4F69-B349-275428B1E09F}
+	EndGlobalSection
+EndGlobal

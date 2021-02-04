@@ -1,0 +1,13 @@
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\bin\Debug\TET Holiday Count.exe.config
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\bin\Debug\TET Holiday Count.exe
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\bin\Debug\TET Holiday Count.pdb
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\bin\Debug\Guna.UI.dll
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET Holiday Count.csprojAssemblyReference.cache
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET_Holiday_Count.Form1.resources
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET_Holiday_Count.Properties.Resources.resources
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET Holiday Count.csproj.GenerateResource.cache
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET Holiday Count.csproj.CoreCompileInputs.cache
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET Holiday Count.csproj.CopyComplete
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET Holiday Count.exe
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\obj\Debug\TET Holiday Count.pdb
+C:\Users\ltpnt\source\repos\TET Holiday Count\TET Holiday Count\bin\Debug\Guna.UI2.dll
